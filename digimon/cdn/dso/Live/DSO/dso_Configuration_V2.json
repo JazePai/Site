@@ -9,13 +9,13 @@
   "PatchInfo": {
     "DownloadUrl": "https://jazepai.github.io/Site/UpdatePatch/",
     "MinPatchVersion": 1,
-    "PatchVersion":193
+    "PatchVersion":100
   },
   "LanuncherInfo": {
     "DownloadPath": "https://jazepai.github.io/Site/Launcher/",
     "CurrentVersion": 319,
-    "ExeFileName": "DE Launcher.exe",
-    "RunExeFileName": "DigitalRevolution.exe",
+    "ExeFileName": "DSO2.exe",
+    "RunExeFileName": "DSO2.exe",
     "VersionList": [
       {
         "Version": 319,
@@ -27,7 +27,7 @@
     "DownloadPath": "https://jazepai.github.io/Site/UpdateManager/",
     "CurrentVersion": 11,
     "ExeFileName": "UpdateManager.exe",
-    "RunExeFileName": "DigitalRevolution.exe",
+    "RunExeFileName": "DSO2.exe",
     "VersionList": [
       {
         "Version": 11,
