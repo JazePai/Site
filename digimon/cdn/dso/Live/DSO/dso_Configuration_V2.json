@@ -7,7 +7,7 @@
     }
   },
   "PatchInfo": {
-    "DownloadUrl": "https://jazepai.github.io/Site/UpdatePatch/",
+    "DownloadUrl": "http://divineplanorigin.online:9090/REO/UpdatePatch/",
     "MinPatchVersion": 1,
     "PatchVersion":193
   },
@@ -24,7 +24,7 @@
 ]
   },
   "UMInfo": {
-    "DownloadPath": "https://jazepai.github.io/Site/UpdateManager/",
+    "DownloadPath": "http://divineplanorigin.online:9090/REO/UpdateManager/",
     "CurrentVersion": 11,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "DigitalRevolution.exe",
@@ -53,8 +53,8 @@
       "TypeName": "GSP",
       "HomePageUrl": "https://discord.gg/vtNnzfSF",
       "GameDownloadUrl": "http://103.216.155.227:9090/REO/GAME/Digital Revolution.exe",
-      "MainPageUrl": "https://jazepai.github.io/Site/main.html",
-      "BanerUrl": "https://jazepai.github.io/Site/banner.html",
+      "MainPageUrl": "http://divineplanorigin.online:9090/REO/main.html",
+      "BanerUrl": "http://divineplanorigin.online:9090/REO/banner.html",
       "ClientIP": "game.digitalshinkaonline.com",
 	    "ClientPort": "7605",
       "Unlock":false
