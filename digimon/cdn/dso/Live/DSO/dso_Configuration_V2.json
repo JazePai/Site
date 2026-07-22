@@ -52,6 +52,7 @@
     {
       "TypeName": "GSP",
       "HomePageUrl": "https://discord.gg/vtNnzfSF",
+      "DiscordAuthUrl": "http://localhost:5001/auth/discord/start",
       "GameDownloadUrl": "http://103.216.155.227:9090/REO/GAME/Digital Revolution.exe",
       "MainPageUrl": "https://jazepai.github.io/Site/main.html",
       "BanerUrl": "https://jazepai.github.io/Site/banner.html",
