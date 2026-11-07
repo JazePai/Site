@@ -14,8 +14,8 @@
   "LanuncherInfo": {
     "DownloadPath": "https://jazepai.github.io/Site/Launcher/",
     "CurrentVersion": 319,
-    "ExeFileName": "DSO2.exe",
-    "RunExeFileName": "DSO2.exe",
+    "ExeFileName": "DSO_Guardian.exe",
+    "RunExeFileName": "DSO_Guardian.exe",
     "VersionList": [
       {
         "Version": 319,
@@ -27,7 +27,7 @@
     "DownloadPath": "https://jazepai.github.io/Site/UpdateManager/",
     "CurrentVersion": 11,
     "ExeFileName": "UpdateManager.exe",
-    "RunExeFileName": "DSO2.exe",
+    "RunExeFileName": "DSO_Guardian.exe",
     "VersionList": [
       {
         "Version": 11,
